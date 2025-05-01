@@ -1,15 +1,15 @@
-2025/05/01-14:45:41.584 18740 Recovering log #39
-2025/05/01-14:45:41.586 18740 Delete type=0 #39
-2025/05/01-14:45:41.586 18740 Delete type=3 #37
-2025/05/01-15:12:13.531 19850 Level-0 table #45: started
-2025/05/01-15:12:13.534 19850 Level-0 table #45: 42525 bytes OK
-2025/05/01-15:12:13.535 19850 Delete type=0 #43
-2025/05/01-15:12:13.535 19850 Manual compaction at level-0 from '!adventures!swoY50HnPKEfvEsK' @ 72057594037927935 : 1 .. '!adventures!swoY50HnPKEfvEsK' @ 0 : 0; will stop at (end)
-2025/05/01-15:12:13.536 19850 Manual compaction at level-1 from '!adventures!swoY50HnPKEfvEsK' @ 72057594037927935 : 1 .. '!adventures!swoY50HnPKEfvEsK' @ 0 : 0; will stop at '!adventures!swoY50HnPKEfvEsK' @ 17 : 1
-2025/05/01-15:12:13.536 19850 Compacting 1@1 + 1@2 files
-2025/05/01-15:12:13.539 19850 Generated table #46@1: 1 keys, 42525 bytes
-2025/05/01-15:12:13.539 19850 Compacted 1@1 + 1@2 files => 42525 bytes
-2025/05/01-15:12:13.540 19850 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/05/01-15:12:13.540 19850 Delete type=2 #41
-2025/05/01-15:12:13.540 19850 Delete type=2 #45
-2025/05/01-15:12:13.542 19850 Manual compaction at level-1 from '!adventures!swoY50HnPKEfvEsK' @ 17 : 1 .. '!adventures!swoY50HnPKEfvEsK' @ 0 : 0; will stop at (end)
+2025/05/01-15:53:50.798 15e80 Recovering log #49
+2025/05/01-15:53:50.801 15e80 Delete type=0 #49
+2025/05/01-15:53:50.801 15e80 Delete type=3 #47
+2025/05/01-16:41:19.741 19850 Level-0 table #54: started
+2025/05/01-16:41:19.747 19850 Level-0 table #54: 150441 bytes OK
+2025/05/01-16:41:19.747 19850 Delete type=0 #52
+2025/05/01-16:41:19.748 19850 Manual compaction at level-0 from '!adventures!swoY50HnPKEfvEsK' @ 72057594037927935 : 1 .. '!adventures!swoY50HnPKEfvEsK' @ 0 : 0; will stop at (end)
+2025/05/01-16:41:19.748 19850 Manual compaction at level-1 from '!adventures!swoY50HnPKEfvEsK' @ 72057594037927935 : 1 .. '!adventures!swoY50HnPKEfvEsK' @ 0 : 0; will stop at '!adventures!swoY50HnPKEfvEsK' @ 18 : 1
+2025/05/01-16:41:19.748 19850 Compacting 1@1 + 1@2 files
+2025/05/01-16:41:19.755 19850 Generated table #55@1: 1 keys, 150441 bytes
+2025/05/01-16:41:19.755 19850 Compacted 1@1 + 1@2 files => 150441 bytes
+2025/05/01-16:41:19.756 19850 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/01-16:41:19.756 19850 Delete type=2 #46
+2025/05/01-16:41:19.756 19850 Delete type=2 #54
+2025/05/01-16:41:19.758 19850 Manual compaction at level-1 from '!adventures!swoY50HnPKEfvEsK' @ 18 : 1 .. '!adventures!swoY50HnPKEfvEsK' @ 0 : 0; will stop at (end)
